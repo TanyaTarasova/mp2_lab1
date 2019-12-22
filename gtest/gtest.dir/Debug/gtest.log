@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets(1879,5): warning : The referenced project 'C:\Users\Влад\Desktop\mp2-lab1-set\sln\vc17\ZERO_CHECK.vcxproj' does not exist.
+CUSTOMBUILD : CMake error : The source directory "C:/Users/╨Т╨╗╨░╨┤/Desktop/mp2-lab1-set" does not appear to contain CMakeLists.txt.
+  Specify --help for usage, or press the help button on the CMake GUI.
+  Building Custom Rule C:/Users/Влад/Desktop/mp2-lab1-set/gtest/CMakeLists.txt
+  CMake is re-running because C:/Users/╨Т╨╗╨░╨┤/Desktop/mp2-lab1-set/sln/vc17/gtest/CMakeFiles/generate.stamp dependency file is missing.
